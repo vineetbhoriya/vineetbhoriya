@@ -4,9 +4,7 @@
 <p align="left"> <a href="https://twitter.com/@vineet16093948" target="blank"><img src="https://img.shields.io/twitter/follow/@vineet16093948?logo=twitter&style=for-the-badge" alt="@vineet16093948" /></a> </p>
 
 - 🔭 I’m currently working as **Software Developement**
-
 - 
-
 - 💬 Ask me about **Softwart Developement , MERN Stack,**
 
 - 📫 How to reach me **vineetbhoriya@gmail.com**
