@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Software Developement**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 
 
 - 💬 Ask me about **Softwart Developement , MERN Stack,**
 
